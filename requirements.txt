@@ -1,0 +1,6 @@
+opencv-python
+dlib
+numpy
+ultralytics==8.3.92
+tk
+pillow==10.2.0
